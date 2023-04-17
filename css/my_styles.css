@@ -22,10 +22,10 @@ body {
  }
  
  :root {
-    --bs-primary: #408080;
-    --bs-primary-rgb: 64, 128, 128;
-    --bs-secondary: #FFD306;
-    --bs-secondary-rgb: 255, 211, 6;
+    --bs-primary: #804040;
+    --bs-primary-rgb: 128, 64, 64;
+    --bs-secondary: #FF7575;
+    --bs-secondary-rgb: 255, 117, 117;
  }
  
  .expedu_icon:hover {
