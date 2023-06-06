@@ -51,3 +51,11 @@ body {
  .card {
    width: 350px ;
  }
+ 
+ .btn {
+   background-color: #FF7575;
+ }
+
+ .btn:hover {
+   background-color: blanchedalmond;
+ }
